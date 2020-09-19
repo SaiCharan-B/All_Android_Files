@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Karate Reg Form</string>
+
+    <string-array name="forms">
+        <item>Kung-Fu</item>
+        <item>Karate</item>
+        <item>Judo</item>
+        <item>Jiu-Jitsu</item>
+        <item>Wrestling</item>
+
+    </string-array>
+</resources>

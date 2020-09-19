@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sample Button1"
+        android:background="@drawable/buttonshape"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sample Button2"
+        android:background="@drawable/buttongradient"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sample Button3"
+        android:background="@drawable/border"
+        android:layout_marginTop="20dp"
+        android:drawableLeft="@android:drawable/btn_star"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:hint="Enter Password"
+        android:background="@drawable/border"
+        android:drawableLeft="@android:drawable/ic_lock_lock"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go to Material Design"
+
+        android:layout_marginTop="20dp"
+        android:onClick="design"
+        />
+
+
+
+</LinearLayout>

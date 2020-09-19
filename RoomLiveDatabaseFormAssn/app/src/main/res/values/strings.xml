@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Room Live Database Form(Assn)</string>
+
+    <string-array name="Departments">
+
+        <item>-- Please Select a Department --</item>
+        <item>Computer Science</item>
+        <item>Electronics Communication</item>
+        <item>Mechanical</item>
+        <item>Civil</item>
+        <item>EEE</item>
+        <item>Information Technology</item>
+
+    </string-array>
+</resources>

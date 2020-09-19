@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    android:background="#000000">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/imgview"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:layout_marginLeft="20sp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Code Name"
+            android:textSize="17sp"
+            android:id="@+id/codename"
+            android:textColor="#36F402"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Version Number"
+            android:textSize="17sp"
+            android:layout_marginTop="1dp"
+            android:id="@+id/vernum"
+            android:textColor="#36F402"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="API Level"
+            android:layout_marginTop="1dp"
+            android:textSize="17sp"
+            android:id="@+id/apilvl"
+            android:textColor="#36F402"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Release Date"
+            android:textSize="17sp"
+            android:layout_marginTop="1dp"
+            android:id="@+id/releasedate"
+            android:textColor="#36F402"
+            />
+
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317868121983",
+    "firebase_url": "https://register-and-login-d7b5d.firebaseio.com",
+    "project_id": "register-and-login-d7b5d",
+    "storage_bucket": "register-and-login-d7b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317868121983:android:aee1e79cfdf76e8c92044a",
+        "android_client_info": {
+          "package_name": "com.example.registerandloginmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317868121983-omtjrcduucrim59576eajecsl612trp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registerandloginmodule",
+            "certificate_hash": "bd790cf7802b124ec19a9e600c89651fa4c93a0a"
+          }
+        },
+        {
+          "client_id": "317868121983-21u1ggin9cl0t599thq4rfb3t9tieqq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiiVk6lLrLlY08fhl1qWrYT__pbbUfgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317868121983-21u1ggin9cl0t599thq4rfb3t9tieqq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
